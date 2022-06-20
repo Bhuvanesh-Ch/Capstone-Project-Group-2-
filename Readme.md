@@ -1,1 +1,1 @@
-Capstone Project for Java FSD
+ShopForHome Capstone Project for Java FSD
